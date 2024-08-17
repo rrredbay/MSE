@@ -1,0 +1,3604 @@
+[CustomCards]
+	[	{
+			"name": "Angel of the Quiet Cries",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Angel ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Angel of the Quiet Cries.png"
+			}
+		},
+		{
+			"name": "Dauntless Soldier",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Dauntless Soldier.png"
+			}
+		},
+		{
+			"name": "Disable",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Disable.png"
+			}
+		},
+		{
+			"name": "Father of Runes",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Father of Runes.png"
+			}
+		},
+		{
+			"name": "Herald of Syane",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Dwarf Knight ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Herald of Syane.png"
+			}
+		},
+		{
+			"name": "Nimble Sprite",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment Creature — Nymph ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Nimble Sprite.png"
+			}
+		},
+		{
+			"name": "Flagbearer's Skychariot",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Vehicle ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Flagbearer's Skychariot.png"
+			}
+		},
+		{
+			"name": "Offensive Advantage",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Offensive Advantage.png"
+			}
+		},
+		{
+			"name": "Stalwart Commander",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Soldier ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Stalwart Commander.png"
+			}
+		},
+		{
+			"name": "Troghanian Golem",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Golem Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Troghanian Golem.png"
+			}
+		},
+		{
+			"name": "Willing Vessel",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Knight ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Willing Vessel.png"
+			}
+		},
+		{
+			"name": "Spiritblossom",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Spiritblossom.png"
+			}
+		},
+		{
+			"name": "Turn into Mist",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Turn into Mist.png"
+			}
+		},
+		{
+			"name": "Priests of the Circle",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Priests of the Circle.png"
+			}
+		},
+		{
+			"name": "Wrathsaga",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Saga ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Wrathsaga.png"
+			}
+		},
+		{
+			"name": "Words from the Sky",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Words from the Sky.png"
+			}
+		},
+		{
+			"name": "Ambitions Denied",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Ambitions Denied.png"
+			}
+		},
+		{
+			"name": "Augur of Moshungun",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Augur of Moshungun.png"
+			}
+		},
+		{
+			"name": "Frost Mage",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Frost Mage.png"
+			}
+		},
+		{
+			"name": "Constant Observer",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}",
+			"type": "Enchantment Creature — Eye Spirit ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Constant Observer.png"
+			}
+		},
+		{
+			"name": "Define the Enigma",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Define the Enigma.png"
+			}
+		},
+		{
+			"name": "Distorted Reality",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment — Aura ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Distorted Reality.png"
+			}
+		},
+		{
+			"name": "Fizzle",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Fizzle.png"
+			}
+		},
+		{
+			"name": "Spirit of Strategy",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment Creature — Spirit ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Spirit of Strategy.png"
+			}
+		},
+		{
+			"name": "Everlasting Hate",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Everlasting Hate.png"
+			}
+		},
+		{
+			"name": "Thoughtrender Vampire",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Vampire ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Thoughtrender Vampire.png"
+			}
+		},
+		{
+			"name": "Flamecraft Golem",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Artifact Creature — Golem ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Flamecraft Golem.png"
+			}
+		},
+		{
+			"name": "Ghirapur Aetherfire",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Ghirapur Aetherfire.png"
+			}
+		},
+		{
+			"name": "Runesong Dwarf",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Dwarf Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Runesong Dwarf.png"
+			}
+		},
+		{
+			"name": "Masterwork Golem",
+			"rarity": "rare",
+			"mana_cost": "{1}{R/W}",
+			"type": "Artifact Creature — Golem Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Masterwork Golem.png"
+			}
+		},
+		{
+			"name": "Orana, Barrier-Between",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Orana, Barrier-Between.png"
+			}
+		},
+		{
+			"name": "Grindspell",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Grindspell.png"
+			}
+		},
+		{
+			"name": "Rewire",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Rewire.png"
+			}
+		},
+		{
+			"name": "Shimmerpike",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Enchantment Creature — Fish Spirit ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Shimmerpike.png"
+			}
+		},
+		{
+			"name": "Mobilize the Monastery",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Mobilize the Monastery.png"
+			}
+		},
+		{
+			"name": "Spirit of the North Wind",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment Creature — Spirit ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Spirit of the North Wind.png"
+			}
+		},
+		{
+			"name": "Wishegg",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment Creature — Egg Spirit ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Wishegg.png"
+			}
+		},
+		{
+			"name": "Life Lesson",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Life Lesson.png"
+			}
+		},
+		{
+			"name": "Portal Opening",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Portal Opening.png"
+			}
+		},
+		{
+			"name": "Her Majesty's Conviction",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Her Majesty's Conviction.png"
+			}
+		},
+		{
+			"name": "Chains of Death",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Chains of Death.png"
+			}
+		},
+		{
+			"name": "Gravecoil Ghoul",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Gravecoil Ghoul.png"
+			}
+		},
+		{
+			"name": "Hateful Glare",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Hateful Glare.png"
+			}
+		},
+		{
+			"name": "Knight of the Pale Order",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Orc Knight ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Knight of the Pale Order.png"
+			}
+		},
+		{
+			"name": "Arise, Ghoul",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Arise, Ghoul.png"
+			}
+		},
+		{
+			"name": "Communion Collector",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Vampire Cleric ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Communion Collector.png"
+			}
+		},
+		{
+			"name": "Viltein's Carriage",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Artifact — Vehicle ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Viltein's Carriage.png"
+			}
+		},
+		{
+			"name": "Yawgmoth's Library",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Yawgmoth's Library.png"
+			}
+		},
+		{
+			"name": "Necromantic Flame",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Necromantic Flame.png"
+			}
+		},
+		{
+			"name": "Iyalden, Valley of Creation",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Iyalden, Valley of Creation.png"
+			}
+		},
+		{
+			"name": "Scour the Earth",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Scour the Earth.png"
+			}
+		},
+		{
+			"name": "Change of Seasons",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Change of Seasons.png"
+			}
+		},
+		{
+			"name": "Farewell to the Shore",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Farewell to the Shore.png"
+			}
+		},
+		{
+			"name": "Leafless, Summer's End",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Treefolk Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Leafless, Summer's End.png"
+			}
+		},
+		{
+			"name": "Druid of the Circle",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Leonin Druid ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Druid of the Circle.png"
+			}
+		},
+		{
+			"name": "Berry, Orchard Tender",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Creature — Human Peasant ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Berry, Orchard Tender.png"
+			}
+		},
+		{
+			"name": "Elected Official",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Advisor ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Elected Official.png"
+			}
+		},
+		{
+			"name": "Aven Courier",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Bird Construct ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Aven Courier.png"
+			}
+		},
+		{
+			"name": "Barrier of Bravery",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Barrier of Bravery.png"
+			}
+		},
+		{
+			"name": "Emergency Protocol",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Emergency Protocol.png"
+			}
+		},
+		{
+			"name": "Exemplar of Courage",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Exemplar of Courage.png"
+			}
+		},
+		{
+			"name": "Guardian Armadillo",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Beast Construct ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Guardian Armadillo.png"
+			}
+		},
+		{
+			"name": "Heidi, Vengeant Priestess",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Cleric ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Heidi, Vengeant Priestess.png"
+			}
+		},
+		{
+			"name": "Highland Survivalist",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Dwarf Wizard Soldier ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Highland Survivalist.png"
+			}
+		},
+		{
+			"name": "Protocol Sergeant",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Ilyari Soldier ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Protocol Sergeant.png"
+			}
+		},
+		{
+			"name": "Rol Warpriest",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Warrior Cleric ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Rol Warpriest.png"
+			}
+		},
+		{
+			"name": "Scatter the Sands",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Scatter the Sands.png"
+			}
+		},
+		{
+			"name": "Tomas, Rol Rallier",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Human Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Tomas, Rol Rallier.png"
+			}
+		},
+		{
+			"name": "Skywarden Adjunct",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Ilyari Artificer ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Skywarden Adjunct.png"
+			}
+		},
+		{
+			"name": "Captured Portal Energy",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Captured Portal Energy.png"
+			}
+		},
+		{
+			"name": "Steel Sabotage",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Steel Sabotage.png"
+			}
+		},
+		{
+			"name": "Dissolution",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Dissolution.png"
+			}
+		},
+		{
+			"name": "Energy Channeler",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Human Construct ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Energy Channeler.png"
+			}
+		},
+		{
+			"name": "Marqeq Elementalist",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Ilyari Wizard ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Marqeq Elementalist.png"
+			}
+		},
+		{
+			"name": "Chill of the Void",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Chill of the Void.png"
+			}
+		},
+		{
+			"name": "Gather the Elements",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Gather the Elements.png"
+			}
+		},
+		{
+			"name": "Ilyari Sapper",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Ilyari Rogue ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Ilyari Sapper.png"
+			}
+		},
+		{
+			"name": "Xet, the Exile",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Artifact Creature — Ilyari ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Xet, the Exile.png"
+			}
+		},
+		{
+			"name": "Stone-Eater Drake",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Drake ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Stone-Eater Drake.png"
+			}
+		},
+		{
+			"name": "Memory Stone",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Memory Stone.png"
+			}
+		},
+		{
+			"name": "Admonish",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Admonish.png"
+			}
+		},
+		{
+			"name": "Forgotten Altar",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Forgotten Altar.png"
+			}
+		},
+		{
+			"name": "Myopic Overmaster",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Ilyari Advisor ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Myopic Overmaster.png"
+			}
+		},
+		{
+			"name": "Demand",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Demand.png"
+			}
+		},
+		{
+			"name": "Tablet of Resurrection",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Tablet of Resurrection.png"
+			}
+		},
+		{
+			"name": "Spoils from Below",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Spoils from Below.png"
+			}
+		},
+		{
+			"name": "Terminal Expedition",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Terminal Expedition.png"
+			}
+		},
+		{
+			"name": "Seething Husk",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Husk ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Seething Husk.png"
+			}
+		},
+		{
+			"name": "Ilyari Replica",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact Creature — Ilyari Construct ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Ilyari Replica.png"
+			}
+		},
+		{
+			"name": "Organics Refiner",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Artifact Creature — Golem ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Organics Refiner.png"
+			}
+		},
+		{
+			"name": "Faithful Scrounger",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Dog ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Faithful Scrounger.png"
+			}
+		},
+		{
+			"name": "Highland Lightning",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Highland Lightning.png"
+			}
+		},
+		{
+			"name": "Rage of the Ancestors",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Rage of the Ancestors.png"
+			}
+		},
+		{
+			"name": "Vengeful Swordmaster",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Vengeful Swordmaster.png"
+			}
+		},
+		{
+			"name": "Manaline Explorer",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dwarf Scout ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Manaline Explorer.png"
+			}
+		},
+		{
+			"name": "Core Imps",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Imp ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Core Imps.png"
+			}
+		},
+		{
+			"name": "Ignite the Elements",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Ignite the Elements.png"
+			}
+		},
+		{
+			"name": "Nimble Raider",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Orc Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Nimble Raider.png"
+			}
+		},
+		{
+			"name": "Cone of Lightning",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Cone of Lightning.png"
+			}
+		},
+		{
+			"name": "Overcharged Portal",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Overcharged Portal.png"
+			}
+		},
+		{
+			"name": "Lowland Troll",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Troll Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Lowland Troll.png"
+			}
+		},
+		{
+			"name": "Thundercaller",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Giant Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Thundercaller.png"
+			}
+		},
+		{
+			"name": "Embodiment of Progress",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Enchantment Creature — Elemental ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Embodiment of Progress.png"
+			}
+		},
+		{
+			"name": "Acid Beast",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elemental Beast ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Acid Beast.png"
+			}
+		},
+		{
+			"name": "Chel Hierarch",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Cleric ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Chel Hierarch.png"
+			}
+		},
+		{
+			"name": "Nacatl Neonate",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Cat Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Nacatl Neonate.png"
+			}
+		},
+		{
+			"name": "Survey the Ruins",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Survey the Ruins.png"
+			}
+		},
+		{
+			"name": "Light Harvest",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Light Harvest.png"
+			}
+		},
+		{
+			"name": "Nourishing Manaline",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Nourishing Manaline.png"
+			}
+		},
+		{
+			"name": "Zylana, Born Leader",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Elf Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Zylana, Born Leader.png"
+			}
+		},
+		{
+			"name": "Twice Bitten",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Twice Bitten.png"
+			}
+		},
+		{
+			"name": "Cya, Master Weaver",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Creature — Ilyari Wizard ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Cya, Master Weaver.png"
+			}
+		},
+		{
+			"name": "Relic Hog",
+			"rarity": "rare",
+			"mana_cost": "{2}{B/G}",
+			"type": "Creature — Boar ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Relic Hog.png"
+			}
+		},
+		{
+			"name": "Alpha Teksaurus",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Artifact Creature — Dinosaur Construct ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Alpha Teksaurus.png"
+			}
+		},
+		{
+			"name": "Everspinning Coin",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Treasure ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Everspinning Coin.png"
+			}
+		},
+		{
+			"name": "Prophetic Prism",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Prophetic Prism.png"
+			}
+		},
+		{
+			"name": "The Blade of Eons",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact — Equipment ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/The Blade of Eons.png"
+			}
+		},
+		{
+			"name": "Surveyor-Recorder",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Construct ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Surveyor-Recorder.png"
+			}
+		},
+		{
+			"name": "Tek Loxodon",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Elephant Construct ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Tek Loxodon.png"
+			}
+		},
+		{
+			"name": "Marqeq Warpgate",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Marqeq Warpgate.png"
+			}
+		},
+		{
+			"name": "Alantha, Nexus Informant",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Human Rogue ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Alantha, Nexus Informant.png"
+			}
+		},
+		{
+			"name": "Explore the Mysteries",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Explore the Mysteries.png"
+			}
+		},
+		{
+			"name": "Mark of the Chel",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Mark of the Chel.png"
+			}
+		},
+		{
+			"name": "Chel Forerunner",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Human Scout ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Chel Forerunner.png"
+			}
+		},
+		{
+			"name": "Exact Vengeance",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Exact Vengeance.png"
+			}
+		},
+		{
+			"name": "Key, Desert Champion",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Key, Desert Champion.png"
+			}
+		},
+		{
+			"name": "Loxodon Nomad",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Creature — Loxodon Scout ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Loxodon Nomad.png"
+			}
+		},
+		{
+			"name": "Make Eternal",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Make Eternal.png"
+			}
+		},
+		{
+			"name": "Make Ranks",
+			"rarity": "rare",
+			"mana_cost": "{2}{B/R}{W}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Make Ranks.png"
+			}
+		},
+		{
+			"name": "Portal Channeler",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Creature — Ilyari Cleric ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Portal Channeler.png"
+			}
+		},
+		{
+			"name": "Poverty, The Eternal",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Artifact Creature — Angel ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Poverty, The Eternal.png"
+			}
+		},
+		{
+			"name": "Tah, Caravan Speaker",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Cleric ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Tah, Caravan Speaker.png"
+			}
+		},
+		{
+			"name": "Venomous Teknid",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Artifact Creature — Construct ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Venomous Teknid.png"
+			}
+		},
+		{
+			"name": "Arohi, Avatar of Passage",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Legendary Creature — Avatar ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Arohi, Avatar of Passage.png"
+			}
+		},
+		{
+			"name": "Insidious Miasma",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Insidious Miasma.png"
+			}
+		},
+		{
+			"name": "Omatac, Sea Dominus",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Fish ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Omatac, Sea Dominus.png"
+			}
+		},
+		{
+			"name": "Oxita Rider",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Creature — Dwarf Scout ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Oxita Rider.png"
+			}
+		},
+		{
+			"name": "Puhmiel, Sender of Stones",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Orc Wizard ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Puhmiel, Sender of Stones.png"
+			}
+		},
+		{
+			"name": "Retriever Lagac",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}{R}",
+			"type": "Creature — Lizard ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Retriever Lagac.png"
+			}
+		},
+		{
+			"name": "Summon the Squadron",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Summon the Squadron.png"
+			}
+		},
+		{
+			"name": "Brothers in Arms",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Orc Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Brothers in Arms.png"
+			}
+		},
+		{
+			"name": "Call the Ancestors",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Call the Ancestors.png"
+			}
+		},
+		{
+			"name": "Elementalist's Infusion",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Elementalist's Infusion.png"
+			}
+		},
+		{
+			"name": "Husk Raiser Adept",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}{B}",
+			"type": "Creature — Human Wizard ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Husk Raiser Adept.png"
+			}
+		},
+		{
+			"name": "Indentured Behemoth",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}{U}",
+			"type": "Creature — Giant ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Indentured Behemoth.png"
+			}
+		},
+		{
+			"name": "Skullface, the Warmonger",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}{B}",
+			"type": "Legendary Creature — Orc Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Skullface, the Warmonger.png"
+			}
+		},
+		{
+			"name": "The Qeylia, Secret Cabal",
+			"rarity": "rare",
+			"mana_cost": "{B/G}{U}",
+			"type": "Legendary Creature — Orc Cleric ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/The Qeylia, Secret Cabal.png"
+			}
+		},
+		{
+			"name": "Vidau, Avatar of Wisdom",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}{U}",
+			"type": "Legendary Creature — Avatar ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Vidau, Avatar of Wisdom.png"
+			}
+		},
+		{
+			"name": "Majesty Unbound",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}{B}{R}{G}",
+			"type": "Legendary Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Majesty Unbound.png"
+			}
+		},
+		{
+			"name": "Nixhia, Avatar of Growth",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{U}{R}",
+			"type": "Legendary Creature — Avatar ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Nixhia, Avatar of Growth.png"
+			}
+		},
+		{
+			"name": "Qeyli Ultimatum",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}{G}{G}{U}{U}{U}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Qeyli Ultimatum.png"
+			}
+		},
+		{
+			"name": "Tek Goliath",
+			"rarity": "rare",
+			"mana_cost": "{8}{B}",
+			"type": "Artifact Creature — Construct ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Tek Goliath.png"
+			}
+		},
+		{
+			"name": "Canyon Boundary",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Nexus ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Canyon Boundary.png"
+			}
+		},
+		{
+			"name": "Caravanner's Nexus",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Nexus ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Caravanner's Nexus.png"
+			}
+		},
+		{
+			"name": "Chel Vista",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Chel Vista.png"
+			}
+		},
+		{
+			"name": "Chol'Jah Vista",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Chol'Jah Vista.png"
+			}
+		},
+		{
+			"name": "Crumbling Boundary",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Nexus ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Crumbling Boundary.png"
+			}
+		},
+		{
+			"name": "Elementalist's Nexus",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Nexus ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Elementalist's Nexus.png"
+			}
+		},
+		{
+			"name": "Highlander's Nexus",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Nexus ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Highlander's Nexus.png"
+			}
+		},
+		{
+			"name": "Marqeq Vista",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Marqeq Vista.png"
+			}
+		},
+		{
+			"name": "Marsh Boundary",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Nexus ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Marsh Boundary.png"
+			}
+		},
+		{
+			"name": "Morass",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Swamp ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Morass.png"
+			}
+		},
+		{
+			"name": "Overmaster's Nexus",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Nexus ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Overmaster's Nexus.png"
+			}
+		},
+		{
+			"name": "Qeyli Vista",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Qeyli Vista.png"
+			}
+		},
+		{
+			"name": "Reef",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Island ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Reef.png"
+			}
+		},
+		{
+			"name": "Butte",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Mountain ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Butte.png"
+			}
+		},
+		{
+			"name": "Rol Vista",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Rol Vista.png"
+			}
+		},
+		{
+			"name": "Sabkha",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Plains ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Sabkha.png"
+			}
+		},
+		{
+			"name": "Saltflat Boundary",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Nexus ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Saltflat Boundary.png"
+			}
+		},
+		{
+			"name": "Syndicate's Nexus",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Nexus ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Syndicate's Nexus.png"
+			}
+		},
+		{
+			"name": "Volatile Boundary",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Nexus ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Volatile Boundary.png"
+			}
+		},
+		{
+			"name": "Weald",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Weald.png"
+			}
+		},
+		{
+			"name": "Bearer of Truth",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Vampire Shaman ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Bearer of Truth.png"
+			}
+		},
+		{
+			"name": "Baron van Viltein",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Vampire Cleric ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Baron van Viltein.png"
+			}
+		},
+		{
+			"name": "Chapel Shadow",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment Creature — Spirit ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Chapel Shadow.png"
+			}
+		},
+		{
+			"name": "Essence Siphoner",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Vampire Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Essence Siphoner.png"
+			}
+		},
+		{
+			"name": "Gloom Grasp",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Gloom Grasp.png"
+			}
+		},
+		{
+			"name": "Greatslug Excretion",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Greatslug Excretion.png"
+			}
+		},
+		{
+			"name": "Blood Elemental",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Artifact Creature — Blood Elemental ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Blood Elemental.png"
+			}
+		},
+		{
+			"name": "Dwarfchaser Ogre",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Ogre ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Dwarfchaser Ogre.png"
+			}
+		},
+		{
+			"name": "Dwarven Swordsmith",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dwarf Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Dwarven Swordsmith.png"
+			}
+		},
+		{
+			"name": "Gerr Vire, First Smith",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Dwarf Artificer ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Gerr Vire, First Smith.png"
+			}
+		},
+		{
+			"name": "Impulsive Goblin",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Impulsive Goblin.png"
+			}
+		},
+		{
+			"name": "Sinister Redemption",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Sinister Redemption.png"
+			}
+		},
+		{
+			"name": "Shunali Drake",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dragon ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Shunali Drake.png"
+			}
+		},
+		{
+			"name": "Uggyr, Shunali Broodmate",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Dragon ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Uggyr, Shunali Broodmate.png"
+			}
+		},
+		{
+			"name": "Wrath of the Gravecoil",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Wrath of the Gravecoil.png"
+			}
+		},
+		{
+			"name": "The Yearning Dead",
+			"rarity": "rare",
+			"mana_cost": "{7}{B}{B}",
+			"type": "Legendary Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/The Yearning Dead.png"
+			}
+		},
+		{
+			"name": "Bogtender Elf",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Elf Cleric ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Bogtender Elf.png"
+			}
+		},
+		{
+			"name": "Hang Glider",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Artifact — Equipment ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Hang Glider.png"
+			}
+		},
+		{
+			"name": "Shunali Fire",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Shunali Fire.png"
+			}
+		},
+		{
+			"name": "Dawn of Anger",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Dawn of Anger.png"
+			}
+		},
+		{
+			"name": "Workshop Tinkerer",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Dwarf Artificer ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Workshop Tinkerer.png"
+			}
+		},
+		{
+			"name": "Lightning Blade",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Equipment ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Lightning Blade.png"
+			}
+		},
+		{
+			"name": "Trashheap Bludgeon",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Equipment ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Trashheap Bludgeon.png"
+			}
+		},
+		{
+			"name": "Fire of Arms",
+			"rarity": "rare",
+			"mana_cost": "{1}{R/W}{R/W}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Fire of Arms.png"
+			}
+		},
+		{
+			"name": "Mechanical Sabertooth",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Cat Construct ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Mechanical Sabertooth.png"
+			}
+		},
+		{
+			"name": "Protector of the Mines",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Artifact Creature — Dragon Construct ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Protector of the Mines.png"
+			}
+		},
+		{
+			"name": "Elf Bard",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Bard ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Elf Bard.png"
+			}
+		},
+		{
+			"name": "Elves of the Springwood",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Druid ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Elves of the Springwood.png"
+			}
+		},
+		{
+			"name": "Jungle Ambusher",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Cat ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Jungle Ambusher.png"
+			}
+		},
+		{
+			"name": "Farcaller",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Scout ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Farcaller.png"
+			}
+		},
+		{
+			"name": "Tale of Cat and Chalice",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Saga ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Tale of Cat and Chalice.png"
+			}
+		},
+		{
+			"name": "Elendir Shadowfoot",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Elf Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Elendir Shadowfoot.png"
+			}
+		},
+		{
+			"name": "Troghan of the Five Magics",
+			"rarity": "rare",
+			"mana_cost": "{10}",
+			"type": "Legendary Artifact Creature — Golem ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Troghan of the Five Magics.png"
+			}
+		},
+		{
+			"name": "Disorderly Cat",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Cat ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Disorderly Cat.png"
+			}
+		},
+		{
+			"name": "Garden Growth",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Garden Growth.png"
+			}
+		},
+		{
+			"name": "Bite",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Bite.png"
+			}
+		},
+		{
+			"name": "Path to the Greatlands",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Path to the Greatlands.png"
+			}
+		},
+		{
+			"name": "Remarkable Renewal",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Remarkable Renewal.png"
+			}
+		},
+		{
+			"name": "Plant the Seeds",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Plant the Seeds.png"
+			}
+		},
+		{
+			"name": "Treetop Jaguar",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Cat ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Treetop Jaguar.png"
+			}
+		},
+		{
+			"name": "Glittering River",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Glittering River.png"
+			}
+		},
+		{
+			"name": "Flagbearers Blade",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Flagbearers Blade.png"
+			}
+		},
+		{
+			"name": "Greenclaw Panther",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Cat ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Greenclaw Panther.png"
+			}
+		},
+		{
+			"name": "Harmony",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Harmony.png"
+			}
+		},
+		{
+			"name": "Hungry Saplings",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Hungry Saplings.png"
+			}
+		},
+		{
+			"name": "Explore the Unknown",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Explore the Unknown.png"
+			}
+		},
+		{
+			"name": "Consider the Storm",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Consider the Storm.png"
+			}
+		},
+		{
+			"name": "Aggrieved Strength",
+			"rarity": "rare",
+			"mana_cost": "{R/G}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Aggrieved Strength.png"
+			}
+		},
+		{
+			"name": "Graveshell Crab",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Crab ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Graveshell Crab.png"
+			}
+		},
+		{
+			"name": "Invoke Goma",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Invoke Goma.png"
+			}
+		},
+		{
+			"name": "Pirate Devil",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Devil Pirate ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Pirate Devil.png"
+			}
+		},
+		{
+			"name": "Of Rot and Rebirth",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Enchantment — Saga ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Of Rot and Rebirth.png"
+			}
+		},
+		{
+			"name": "Spellfire Forge",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Spellfire Forge.png"
+			}
+		},
+		{
+			"name": "Shifting Construct",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Shapeshifter ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Shifting Construct.png"
+			}
+		},
+		{
+			"name": "Raptor Oddity",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Bird Mutant ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Raptor Oddity.png"
+			}
+		},
+		{
+			"name": "Spirit of Blinding Light",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment Creature — Spirit ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Spirit of Blinding Light.png"
+			}
+		},
+		{
+			"name": "Chapel Chamberlain",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Zombie Cleric ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Chapel Chamberlain.png"
+			}
+		},
+		{
+			"name": "Greatlands Pathwarden",
+			"rarity": "rare",
+			"mana_cost": "{2}{G/W}",
+			"type": "Creature — Elk Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Greatlands Pathwarden.png"
+			}
+		},
+		{
+			"name": "Lifegranter",
+			"rarity": "rare",
+			"mana_cost": "{2}{W/B}",
+			"type": "Creature — Vampire Cleric ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Lifegranter.png"
+			}
+		},
+		{
+			"name": "Shunal and Khoron",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}{R}{R}",
+			"type": "Legendary Creature — Dragon Demon ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Shunal and Khoron.png"
+			}
+		},
+		{
+			"name": "Listen to the Darkness",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Listen to the Darkness.png"
+			}
+		},
+		{
+			"name": "Guardian of Troghan",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Golem Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Guardian of Troghan.png"
+			}
+		},
+		{
+			"name": "Frozen Wastes",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Frozen Wastes.png"
+			}
+		},
+		{
+			"name": "Holy Provinces",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Holy Provinces.png"
+			}
+		},
+		{
+			"name": "Hidden Refuge",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Hidden Refuge.png"
+			}
+		},
+		{
+			"name": "Overgrown Slimetrail",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Overgrown Slimetrail.png"
+			}
+		},
+		{
+			"name": "Shunali Crags",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Shunali Crags.png"
+			}
+		},
+		{
+			"name": "Goma, Drifting Paradise",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land — Island ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Goma, Drifting Paradise.png"
+			}
+		},
+		{
+			"name": "Dryboughs, Whispering Woods",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land — Forest ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Dryboughs, Whispering Woods.png"
+			}
+		},
+		{
+			"name": "Phuslixx, Creeping Bog",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land — Swamp ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Phuslixx, Creeping Bog.png"
+			}
+		},
+		{
+			"name": "Rock, Slumbering Mountain",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land — Mountain ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Rock, Slumbering Mountain.png"
+			}
+		},
+		{
+			"name": "Syane, Gentle Plains",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land — Plains ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Syane, Gentle Plains.png"
+			}
+		},
+		{
+			"name": "Cease Hostility",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Cease Hostility.png"
+			}
+		},
+		{
+			"name": "Light the Path",
+			"rarity": "rare",
+			"mana_cost": "{1}{G/W}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Light the Path.png"
+			}
+		},
+		{
+			"name": "Pureheart Paladin",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Pureheart Paladin.png"
+			}
+		},
+		{
+			"name": "Weary Traveller",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Weary Traveller.png"
+			}
+		},
+		{
+			"name": "Beaming Angel",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Angel ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Beaming Angel.png"
+			}
+		},
+		{
+			"name": "Guiding Soul",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment Creature — Spirit ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Guiding Soul.png"
+			}
+		},
+		{
+			"name": "Hero's Anthem",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Hero's Anthem.png"
+			}
+		},
+		{
+			"name": "Illumination Binding",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Illumination Binding.png"
+			}
+		},
+		{
+			"name": "Provisioned Explorer",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Scout ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Provisioned Explorer.png"
+			}
+		},
+		{
+			"name": "Heidi, the Pure",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Human Cleric ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Heidi, the Pure.png"
+			}
+		},
+		{
+			"name": "Send Beyond",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Send Beyond.png"
+			}
+		},
+		{
+			"name": "Sir Fromm, of the Lit Path",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Human Knight ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Sir Fromm, of the Lit Path.png"
+			}
+		},
+		{
+			"name": "Guardian Giant",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Creature — Giant ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Guardian Giant.png"
+			}
+		},
+		{
+			"name": "Claim Pilferer",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Rogue ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Claim Pilferer.png"
+			}
+		},
+		{
+			"name": "Retreat to the Cavemouth",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Retreat to the Cavemouth.png"
+			}
+		},
+		{
+			"name": "Hypothermia",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Hypothermia.png"
+			}
+		},
+		{
+			"name": "Maestro's Conjuring",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Maestro's Conjuring.png"
+			}
+		},
+		{
+			"name": "Mine Ghost",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment Creature — Spirit ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Mine Ghost.png"
+			}
+		},
+		{
+			"name": "Orana Rascal",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Creature — Faerie Rogue ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Orana Rascal.png"
+			}
+		},
+		{
+			"name": "Ponder Depths",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Ponder Depths.png"
+			}
+		},
+		{
+			"name": "Veita, Crowcaller",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Wizard ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Veita, Crowcaller.png"
+			}
+		},
+		{
+			"name": "Goldflecked Serpent",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Snake Construct ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Goldflecked Serpent.png"
+			}
+		},
+		{
+			"name": "Path Less Travelled",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Path Less Travelled.png"
+			}
+		},
+		{
+			"name": "Flood the Tunnels",
+			"rarity": "rare",
+			"mana_cost": "{6}{U}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Flood the Tunnels.png"
+			}
+		},
+		{
+			"name": "Brazen Spelunker",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Scout ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Brazen Spelunker.png"
+			}
+		},
+		{
+			"name": "Incensed Drow",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Elf Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Incensed Drow.png"
+			}
+		},
+		{
+			"name": "Alex, Nimble Fingers",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Rogue ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Alex, Nimble Fingers.png"
+			}
+		},
+		{
+			"name": "Digger's Delight",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact — Treasure ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Digger's Delight.png"
+			}
+		},
+		{
+			"name": "Tomb Terror",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Shade ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Tomb Terror.png"
+			}
+		},
+		{
+			"name": "Kila, Scourge of Orana",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Human Shaman ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Kila, Scourge of Orana.png"
+			}
+		},
+		{
+			"name": "Languish",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Languish.png"
+			}
+		},
+		{
+			"name": "Hunting Chupacabra",
+			"rarity": "rare",
+			"mana_cost": "{6}{B}{B}",
+			"type": "Creature — Beast Horror ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Hunting Chupacabra.png"
+			}
+		},
+		{
+			"name": "Caverunner Aspirant",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Dwarf ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Caverunner Aspirant.png"
+			}
+		},
+		{
+			"name": "Grimmgun Dwarves",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Dwarf Rogue ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Grimmgun Dwarves.png"
+			}
+		},
+		{
+			"name": "Bruff the Adventurous",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Dwarf Scout ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Bruff the Adventurous.png"
+			}
+		},
+		{
+			"name": "Dwarven Drilling Machine",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Vehicle ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Dwarven Drilling Machine.png"
+			}
+		},
+		{
+			"name": "Magma Vent",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Magma Vent.png"
+			}
+		},
+		{
+			"name": "Surprising Find",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Treasure ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Surprising Find.png"
+			}
+		},
+		{
+			"name": "Cave Gas Ignitor",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Goblin Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Cave Gas Ignitor.png"
+			}
+		},
+		{
+			"name": "Wheels of Fortune",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Artifact — Vehicle ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Wheels of Fortune.png"
+			}
+		},
+		{
+			"name": "Crack the Lavacore",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Crack the Lavacore.png"
+			}
+		},
+		{
+			"name": "Penumbra Satyr",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Satyr Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Penumbra Satyr.png"
+			}
+		},
+		{
+			"name": "Bruff's Big Find",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}{R}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Bruff's Big Find.png"
+			}
+		},
+		{
+			"name": "Melt the Barrier",
+			"rarity": "rare",
+			"mana_cost": "{6}{R}{R}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Melt the Barrier.png"
+			}
+		},
+		{
+			"name": "Dryad of Exploration",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Enchantment Creature — Dryad ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Dryad of Exploration.png"
+			}
+		},
+		{
+			"name": "Cave Bear",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Bear ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Cave Bear.png"
+			}
+		},
+		{
+			"name": "Emissary of Orana",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Lizard Advisor ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Emissary of Orana.png"
+			}
+		},
+		{
+			"name": "Mill and Sieve",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Mill and Sieve.png"
+			}
+		},
+		{
+			"name": "Orana Dryad",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment Creature — Spirit Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Orana Dryad.png"
+			}
+		},
+		{
+			"name": "Mossy Wall",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Wall ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Mossy Wall.png"
+			}
+		},
+		{
+			"name": "Tunneler Lizard",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Lizard ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Tunneler Lizard.png"
+			}
+		},
+		{
+			"name": "Wandering Wiitigo",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Horror ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Wandering Wiitigo.png"
+			}
+		},
+		{
+			"name": "Crevasse Wardens",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Elf Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Crevasse Wardens.png"
+			}
+		},
+		{
+			"name": "Naldan, King of the Drow",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Elf Noble ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Naldan, King of the Drow.png"
+			}
+		},
+		{
+			"name": "Zylana's Revelation",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Zylana's Revelation.png"
+			}
+		},
+		{
+			"name": "Buried Ancient",
+			"rarity": "rare",
+			"mana_cost": "{7}{G}",
+			"type": "Creature — Beast ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Buried Ancient.png"
+			}
+		},
+		{
+			"name": "Earthshaker Beast",
+			"rarity": "rare",
+			"mana_cost": "{6}{G}{G}{G}",
+			"type": "Creature — Beast ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Earthshaker Beast.png"
+			}
+		},
+		{
+			"name": "Burdened Exarch",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Human Cleric ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Burdened Exarch.png"
+			}
+		},
+		{
+			"name": "Familiar Touch",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Familiar Touch.png"
+			}
+		},
+		{
+			"name": "Discovered Treasure",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Treasure ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Discovered Treasure.png"
+			}
+		},
+		{
+			"name": "Pull from Beyond",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Pull from Beyond.png"
+			}
+		},
+		{
+			"name": "Rodric, of the Lit Path",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Centaur Cleric ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Rodric, of the Lit Path.png"
+			}
+		},
+		{
+			"name": "Ancient Automaton",
+			"rarity": "rare",
+			"mana_cost": "{8}",
+			"type": "Artifact Creature — Golem ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Ancient Automaton.png"
+			}
+		},
+		{
+			"name": "Adventurer's Camp",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Adventurer's Camp.png"
+			}
+		},
+		{
+			"name": "Crystaline Stalactites",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Crystaline Stalactites.png"
+			}
+		},
+		{
+			"name": "Rich Vein",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Rich Vein.png"
+			}
+		},
+		{
+			"name": "Tunnel Tester",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Construct ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Tunnel Tester.png"
+			}
+		},
+		{
+			"name": "Spelunking Suit",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Vehicle ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Spelunking Suit.png"
+			}
+		},
+		{
+			"name": "Release the Shackles",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Release the Shackles.png"
+			}
+		},
+		{
+			"name": "Guardian of Orana",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment Creature — Spirit ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Guardian of Orana.png"
+			}
+		},
+		{
+			"name": "Flame Snuffer",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Elemental Beast ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Flame Snuffer.png"
+			}
+		},
+		{
+			"name": "Gemshell Turtle",
+			"rarity": "rare",
+			"mana_cost": "{6}{U}",
+			"type": "Creature — Turtle ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Gemshell Turtle.png"
+			}
+		},
+		{
+			"name": "Ivon, Metal Maestro",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact Creature — Golem ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Ivon, Metal Maestro.png"
+			}
+		},
+		{
+			"name": "Pinch Thoughts",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Pinch Thoughts.png"
+			}
+		},
+		{
+			"name": "Bloody Trail",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Bloody Trail.png"
+			}
+		},
+		{
+			"name": "Suspicious Cave-In",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Suspicious Cave-In.png"
+			}
+		},
+		{
+			"name": "Grisly Pickaxe",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact — Equipment ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Grisly Pickaxe.png"
+			}
+		},
+		{
+			"name": "Kila's Will",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Kila's Will.png"
+			}
+		},
+		{
+			"name": "Desperate Ramblings",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Desperate Ramblings.png"
+			}
+		},
+		{
+			"name": "Viasarite Resonation",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Viasarite Resonation.png"
+			}
+		},
+		{
+			"name": "Torch of the Lit Path",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Torch of the Lit Path.png"
+			}
+		},
+		{
+			"name": "Unlock the Gates",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Unlock the Gates.png"
+			}
+		},
+		{
+			"name": "Courteous Amalgam",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Shapeshifter ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Courteous Amalgam.png"
+			}
+		},
+		{
+			"name": "Magmatic Paradise",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Magmatic Paradise.png"
+			}
+		},
+		{
+			"name": "Sacred Cavern",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Sacred Cavern.png"
+			}
+		},
+		{
+			"name": "Steam Chamber",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Steam Chamber.png"
+			}
+		},
+		{
+			"name": "Subterranean Marsh",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Subterranean Marsh.png"
+			}
+		},
+		{
+			"name": "Overgrown Prairie",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Overgrown Prairie.png"
+			}
+		},
+		{
+			"name": "Thirst for Knowledge",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Thirst for Knowledge.png"
+			}
+		},
+		{
+			"name": "Koneco, Staff of the Avatars",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Legendary Artifact — Equipment ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Koneco, Staff of the Avatars.png"
+			}
+		},
+		{
+			"name": "Omen of Death",
+			"rarity": "rare",
+			"mana_cost": "{1}{U/B}{U/B}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Omen of Death.png"
+			}
+		},
+		{
+			"name": "Strange Crab",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Crab ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Strange Crab.png"
+			}
+		},
+		{
+			"name": "High Seas Ruffians",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dwarf Pirate Bard ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/High Seas Ruffians.png"
+			}
+		},
+		{
+			"name": "Molder Ooze",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Ooze ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Molder Ooze.png"
+			}
+		},
+		{
+			"name": "Stonewaker's Gauntlets",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Stonewaker's Gauntlets.png"
+			}
+		},
+		{
+			"name": "Evacuation",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Evacuation.png"
+			}
+		},
+		{
+			"name": "Ilyari Geomancer",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Ilyari Wizard ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Ilyari Geomancer.png"
+			}
+		},
+		{
+			"name": "Lava Geyser",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Lava Geyser.png"
+			}
+		},
+		{
+			"name": "Rowdy Pitworkers",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Orc Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Rowdy Pitworkers.png"
+			}
+		},
+		{
+			"name": "Persistent Tekmole",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Mole Construct ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Persistent Tekmole.png"
+			}
+		},
+		{
+			"name": "Elven Explorer",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Scout ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Elven Explorer.png"
+			}
+		},
+		{
+			"name": "Chasing the Sky",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Chasing the Sky.png"
+			}
+		},
+		{
+			"name": "Picky Picky Picky",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Picky Picky Picky.png"
+			}
+		},
+		{
+			"name": "Awakened Baloths",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Creature — Elemental Beast ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Awakened Baloths.png"
+			}
+		},
+		{
+			"name": "Viltein's Brood",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Vampire ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Viltein's Brood.png"
+			}
+		},
+		{
+			"name": "Despondence",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Legendary Creature — Incarnation ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Despondence.png"
+			}
+		},
+		{
+			"name": "Diffuse",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Diffuse.png"
+			}
+		},
+		{
+			"name": "Aerial Manaline",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Aerial Manaline.png"
+			}
+		},
+		{
+			"name": "Mangle",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Mangle.png"
+			}
+		},
+		{
+			"name": "Rewind the Tales",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Rewind the Tales.png"
+			}
+		},
+		{
+			"name": "Viasarite Sword",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Viasarite Sword.png"
+			}
+		},
+		{
+			"name": "Chol'Jah Ultimatum",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}{U}{U}{B}{B}{B}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Chol'Jah Ultimatum.png"
+			}
+		},
+		{
+			"name": "Into the Miasma",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Into the Miasma.png"
+			}
+		},
+		{
+			"name": "Nexus Initiate",
+			"rarity": "rare",
+			"mana_cost": "{U/R}{G}",
+			"type": "Enchantment Creature — Dryad ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Nexus Initiate.png"
+			}
+		},
+		{
+			"name": "Anna, Vengeant Archangel",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Legendary Creature — Angel Warrior ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Anna, Vengeant Archangel.png"
+			}
+		},
+		{
+			"name": "Toadera Idol",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/rrredbay/MSE/main/RCC/Toadera Idol.png"
+			}
+		},
+		]
+	[RareSlot(15)]
+	3 Angel of the Quiet Cries
+		3 Dauntless Soldier
+		3 Disable
+		3 Father of Runes
+		3 Herald of Syane
+		3 Nimble Sprite
+		3 Flagbearer's Skychariot
+		3 Offensive Advantage
+		3 Stalwart Commander
+		3 Troghanian Golem
+		3 Willing Vessel
+		3 Spiritblossom
+		3 Turn into Mist
+		3 Priests of the Circle
+		3 Wrathsaga
+		3 Words from the Sky
+		3 Ambitions Denied
+		3 Augur of Moshungun
+		3 Frost Mage
+		3 Constant Observer
+		3 Define the Enigma
+		3 Distorted Reality
+		3 Fizzle
+		3 Spirit of Strategy
+		3 Everlasting Hate
+		3 Thoughtrender Vampire
+		3 Flamecraft Golem
+		3 Ghirapur Aetherfire
+		3 Runesong Dwarf
+		3 Masterwork Golem
+		3 Orana, Barrier-Between
+		3 Grindspell
+		3 Rewire
+		3 Shimmerpike
+		3 Mobilize the Monastery
+		3 Spirit of the North Wind
+		3 Wishegg
+		3 Life Lesson
+		3 Portal Opening
+		3 Her Majesty's Conviction
+		3 Chains of Death
+		3 Gravecoil Ghoul
+		3 Hateful Glare
+		3 Knight of the Pale Order
+		3 Arise, Ghoul
+		3 Communion Collector
+		3 Viltein's Carriage
+		3 Yawgmoth's Library
+		3 Necromantic Flame
+		3 Iyalden, Valley of Creation
+		3 Scour the Earth
+		3 Change of Seasons
+		3 Farewell to the Shore
+		3 Leafless, Summer's End
+		3 Druid of the Circle
+		3 Berry, Orchard Tender
+		3 Elected Official
+		3 Aven Courier
+		3 Barrier of Bravery
+		3 Emergency Protocol
+		3 Exemplar of Courage
+		3 Guardian Armadillo
+		3 Heidi, Vengeant Priestess
+		3 Highland Survivalist
+		3 Protocol Sergeant
+		3 Rol Warpriest
+		3 Scatter the Sands
+		3 Tomas, Rol Rallier
+		3 Skywarden Adjunct
+		3 Captured Portal Energy
+		3 Steel Sabotage
+		3 Dissolution
+		3 Energy Channeler
+		3 Marqeq Elementalist
+		3 Chill of the Void
+		3 Gather the Elements
+		3 Ilyari Sapper
+		3 Xet, the Exile
+		3 Stone-Eater Drake
+		3 Memory Stone
+		3 Admonish
+		3 Forgotten Altar
+		3 Myopic Overmaster
+		3 Demand
+		3 Tablet of Resurrection
+		3 Spoils from Below
+		3 Terminal Expedition
+		3 Seething Husk
+		3 Ilyari Replica
+		3 Organics Refiner
+		3 Faithful Scrounger
+		3 Highland Lightning
+		3 Rage of the Ancestors
+		3 Vengeful Swordmaster
+		3 Manaline Explorer
+		3 Core Imps
+		3 Ignite the Elements
+		3 Nimble Raider
+		3 Cone of Lightning
+		3 Overcharged Portal
+		3 Lowland Troll
+		3 Thundercaller
+		3 Embodiment of Progress
+		3 Acid Beast
+		3 Chel Hierarch
+		3 Nacatl Neonate
+		3 Survey the Ruins
+		3 Light Harvest
+		3 Nourishing Manaline
+		3 Zylana, Born Leader
+		3 Twice Bitten
+		3 Cya, Master Weaver
+		3 Relic Hog
+		3 Alpha Teksaurus
+		3 Everspinning Coin
+		3 Prophetic Prism
+		3 The Blade of Eons
+		3 Surveyor-Recorder
+		3 Tek Loxodon
+		3 Marqeq Warpgate
+		3 Alantha, Nexus Informant
+		3 Explore the Mysteries
+		3 Mark of the Chel
+		3 Chel Forerunner
+		3 Exact Vengeance
+		3 Key, Desert Champion
+		3 Loxodon Nomad
+		3 Make Eternal
+		3 Make Ranks
+		3 Portal Channeler
+		3 Poverty, The Eternal
+		3 Tah, Caravan Speaker
+		3 Venomous Teknid
+		3 Arohi, Avatar of Passage
+		3 Insidious Miasma
+		3 Omatac, Sea Dominus
+		3 Oxita Rider
+		3 Puhmiel, Sender of Stones
+		3 Retriever Lagac
+		3 Summon the Squadron
+		3 Brothers in Arms
+		3 Call the Ancestors
+		3 Elementalist's Infusion
+		3 Husk Raiser Adept
+		3 Indentured Behemoth
+		3 Skullface, the Warmonger
+		3 The Qeylia, Secret Cabal
+		3 Vidau, Avatar of Wisdom
+		3 Majesty Unbound
+		3 Nixhia, Avatar of Growth
+		3 Qeyli Ultimatum
+		3 Tek Goliath
+		3 Canyon Boundary
+		3 Caravanner's Nexus
+		3 Chel Vista
+		3 Chol'Jah Vista
+		3 Crumbling Boundary
+		3 Elementalist's Nexus
+		3 Highlander's Nexus
+		3 Marqeq Vista
+		3 Marsh Boundary
+		3 Morass
+		3 Overmaster's Nexus
+		3 Qeyli Vista
+		3 Reef
+		3 Butte
+		3 Rol Vista
+		3 Sabkha
+		3 Saltflat Boundary
+		3 Syndicate's Nexus
+		3 Volatile Boundary
+		3 Weald
+		3 Bearer of Truth
+		3 Baron van Viltein
+		3 Chapel Shadow
+		3 Essence Siphoner
+		3 Gloom Grasp
+		3 Greatslug Excretion
+		3 Blood Elemental
+		3 Dwarfchaser Ogre
+		3 Dwarven Swordsmith
+		3 Gerr Vire, First Smith
+		3 Impulsive Goblin
+		3 Sinister Redemption
+		3 Shunali Drake
+		3 Uggyr, Shunali Broodmate
+		3 Wrath of the Gravecoil
+		3 The Yearning Dead
+		3 Bogtender Elf
+		3 Hang Glider
+		3 Shunali Fire
+		3 Dawn of Anger
+		3 Workshop Tinkerer
+		3 Lightning Blade
+		3 Trashheap Bludgeon
+		3 Fire of Arms
+		3 Mechanical Sabertooth
+		3 Protector of the Mines
+		3 Elf Bard
+		3 Elves of the Springwood
+		3 Jungle Ambusher
+		3 Farcaller
+		3 Tale of Cat and Chalice
+		3 Elendir Shadowfoot
+		3 Troghan of the Five Magics
+		3 Disorderly Cat
+		3 Garden Growth
+		3 Bite
+		3 Path to the Greatlands
+		3 Remarkable Renewal
+		3 Plant the Seeds
+		3 Treetop Jaguar
+		3 Glittering River
+		3 Flagbearers Blade
+		3 Greenclaw Panther
+		3 Harmony
+		3 Hungry Saplings
+		3 Explore the Unknown
+		3 Consider the Storm
+		3 Aggrieved Strength
+		3 Graveshell Crab
+		3 Invoke Goma
+		3 Pirate Devil
+		3 Of Rot and Rebirth
+		3 Spellfire Forge
+		3 Shifting Construct
+		3 Raptor Oddity
+		3 Spirit of Blinding Light
+		3 Chapel Chamberlain
+		3 Greatlands Pathwarden
+		3 Lifegranter
+		3 Shunal and Khoron
+		3 Listen to the Darkness
+		3 Guardian of Troghan
+		3 Frozen Wastes
+		3 Holy Provinces
+		3 Hidden Refuge
+		3 Overgrown Slimetrail
+		3 Shunali Crags
+		3 Goma, Drifting Paradise
+		3 Dryboughs, Whispering Woods
+		3 Phuslixx, Creeping Bog
+		3 Rock, Slumbering Mountain
+		3 Syane, Gentle Plains
+		3 Cease Hostility
+		3 Light the Path
+		3 Pureheart Paladin
+		3 Weary Traveller
+		3 Beaming Angel
+		3 Guiding Soul
+		3 Hero's Anthem
+		3 Illumination Binding
+		3 Provisioned Explorer
+		3 Heidi, the Pure
+		3 Send Beyond
+		3 Sir Fromm, of the Lit Path
+		3 Guardian Giant
+		3 Claim Pilferer
+		3 Retreat to the Cavemouth
+		3 Hypothermia
+		3 Maestro's Conjuring
+		3 Mine Ghost
+		3 Orana Rascal
+		3 Ponder Depths
+		3 Veita, Crowcaller
+		3 Goldflecked Serpent
+		3 Path Less Travelled
+		3 Flood the Tunnels
+		3 Brazen Spelunker
+		3 Incensed Drow
+		3 Alex, Nimble Fingers
+		3 Digger's Delight
+		3 Tomb Terror
+		3 Kila, Scourge of Orana
+		3 Languish
+		3 Hunting Chupacabra
+		3 Caverunner Aspirant
+		3 Grimmgun Dwarves
+		3 Bruff the Adventurous
+		3 Dwarven Drilling Machine
+		3 Magma Vent
+		3 Surprising Find
+		3 Cave Gas Ignitor
+		3 Wheels of Fortune
+		3 Crack the Lavacore
+		3 Penumbra Satyr
+		3 Bruff's Big Find
+		3 Melt the Barrier
+		3 Dryad of Exploration
+		3 Cave Bear
+		3 Emissary of Orana
+		3 Mill and Sieve
+		3 Orana Dryad
+		3 Mossy Wall
+		3 Tunneler Lizard
+		3 Wandering Wiitigo
+		3 Crevasse Wardens
+		3 Naldan, King of the Drow
+		3 Zylana's Revelation
+		3 Buried Ancient
+		3 Earthshaker Beast
+		3 Burdened Exarch
+		3 Familiar Touch
+		3 Discovered Treasure
+		3 Pull from Beyond
+		3 Rodric, of the Lit Path
+		3 Ancient Automaton
+		3 Adventurer's Camp
+		3 Crystaline Stalactites
+		3 Rich Vein
+		3 Tunnel Tester
+		3 Spelunking Suit
+		3 Release the Shackles
+		3 Guardian of Orana
+		3 Flame Snuffer
+		3 Gemshell Turtle
+		3 Ivon, Metal Maestro
+		3 Pinch Thoughts
+		3 Bloody Trail
+		3 Suspicious Cave-In
+		3 Grisly Pickaxe
+		3 Kila's Will
+		3 Desperate Ramblings
+		3 Viasarite Resonation
+		3 Torch of the Lit Path
+		3 Unlock the Gates
+		3 Courteous Amalgam
+		3 Magmatic Paradise
+		3 Sacred Cavern
+		3 Steam Chamber
+		3 Subterranean Marsh
+		3 Overgrown Prairie
+		3 Thirst for Knowledge
+		3 Koneco, Staff of the Avatars
+		3 Omen of Death
+		3 Strange Crab
+		3 High Seas Ruffians
+		3 Molder Ooze
+		3 Stonewaker's Gauntlets
+		3 Evacuation
+		3 Ilyari Geomancer
+		3 Lava Geyser
+		3 Rowdy Pitworkers
+		3 Persistent Tekmole
+		3 Elven Explorer
+		3 Chasing the Sky
+		3 Picky Picky Picky
+		3 Awakened Baloths
+		3 Viltein's Brood
+		3 Despondence
+		3 Diffuse
+		3 Aerial Manaline
+		3 Mangle
+		3 Rewind the Tales
+		3 Viasarite Sword
+		3 Chol'Jah Ultimatum
+		3 Into the Miasma
+		3 Nexus Initiate
+		3 Anna, Vengeant Archangel
+		3 Toadera Idol
+		
